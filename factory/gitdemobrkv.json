@@ -1,0 +1,9 @@
+{
+	"name": "gitdemobrkv",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7ad24d7c-7632-4b6e-b6a9-0c27fd82f552",
+		"tenantId": "000e7f98-e80c-4e25-bfaf-d41b8ba5b59d"
+	}
+}
